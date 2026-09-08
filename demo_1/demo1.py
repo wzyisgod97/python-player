@@ -10,3 +10,7 @@ var1=2
 print(var1)
 import langchain
 print(langchain.__version__)
+str1='0123456789'
+print(str1[0:-1])
+print(str1[0:-2])
+print(str1[2:5])
